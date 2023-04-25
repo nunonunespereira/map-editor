@@ -1,3 +1,3 @@
 # map-editor
 
-[![Screenshot-2023-04-25-at-12-19-27.png](https://i.postimg.cc/fRtDvth0/Screenshot-2023-04-25-at-12-19-27.png)](https://postimg.cc/PCjgXqJt)
+[![ezgif-1-46e22fc067.gif](https://i.postimg.cc/fTHY9FwR/ezgif-1-46e22fc067.gif)](https://postimg.cc/MvQck9MC)
